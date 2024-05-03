@@ -1,5 +1,7 @@
 # QuimicAR
 
+<https://github.com/giancarloCavalli/quimica-ra/tree/release/v2-completa>  
+
 ## tcc_GiancarloCavalli
 
 Ano/Semestre: 2023-2  
