@@ -137,3 +137,9 @@ Usar como exemplo <https://www.furb.br/dsc/arquivos/tccs/monografias/2014_2_osva
 <https://github.com/dalton-reis/tcc_GiancarloCavalli/blob/main/_dalton/2023-08-22_Reuniao_Lenqui.pdf>  
 
 Pedir para o Japa assumir a integração deste TCC com o Super Trunfo Elementar.  
+
+[2024-07-02_previa.md](2024-07-02_previa.md)  
+
+[2024-07-03_defesa_Arleide.pdf](2024-07-03_defesa_Arleide.pdf)  
+
+[2024-07-03_defesa_Mauricio.pdf](2024-07-03_defesa_Mauricio.pdf)  
